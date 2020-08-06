@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=TheYoxy&color=orange&style=flat-square)
+
 - 🌱 I’m currently learning react
 - 💬 Ask me about: 
   - Angular
