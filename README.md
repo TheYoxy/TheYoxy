@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=TheYoxy&color=orange&style=flat-square)
 
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning `react`
 - 💬 Ask me about: 
   - Angular
   - Asp.net core
@@ -37,9 +37,11 @@
 
 #### Some useless stats about me:
 
-[![TheYoxy's github stats](https://github-readme-stats.vercel.app/api?username=theyoxy&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theyoxy&count_private=true&show_icons=true&include_all_commits=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" aria-label="TheYoxy's github stats"/>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyoxy&theme=dark&count_private=true&hide=java)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyoxy&theme=dark&count_private=true&hide=java)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Minecolonies card](https://github-readme-stats.vercel.app/api/pin/?username=ldtteam&repo=minecolonies&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
