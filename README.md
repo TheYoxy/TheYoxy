@@ -20,9 +20,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=theyoxy&count_private=true&show_icons=true&include_all_commits=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" aria-label="TheYoxy's github stats"/>
 </a>
-
-----
-
-#### Most important thing to know:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SQfOw6_s_lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
